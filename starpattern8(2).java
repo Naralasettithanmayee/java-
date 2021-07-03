@@ -1,6 +1,6 @@
 class StarPattern 
 {
-  public static void main(String[] args)
+  public static void main(String args[])
  {
     int number = 4;
     int count = number - 1;
