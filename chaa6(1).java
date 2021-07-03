@@ -23,4 +23,3 @@ System.out.println();
 return;
 }
 }
-© 2021 GitHub, Inc.
