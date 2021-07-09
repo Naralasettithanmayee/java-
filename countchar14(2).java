@@ -2,7 +2,7 @@ class CountChar
 {  
     public static void main(String args[])
  {  
-        String string = "live your life";  
+        String string = "Aditya Degree College";  
         int count = 0;    
         for(int i = 0; i < string.length(); i++)
  {  
