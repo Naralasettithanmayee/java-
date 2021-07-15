@@ -24,9 +24,9 @@ public static void main(String args[])
 {
 Scanner sc=new Scanner(System.in);
 System.out.print("Enter Starting range=");
-int n=sc.nextInt();
+int a=sc.nextInt();
 System.out.print("Enter Ending range=");
-int p=sc.nextInt();
-primenumber(n,p);
+int b=sc.nextInt();
+primenumber(a,b);
 }
 }
